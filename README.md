@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nihal Singh</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nihal29singh&label=Profile%20views&color=0e75b6&style=flat" alt="nihal29singh" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal29singh" alt="nihal29singh" /></a> </p>
 
