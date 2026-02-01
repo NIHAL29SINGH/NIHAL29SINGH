@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Java developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nihal29singh" alt="nihal29singh" /></a> </p>
+
 
 - 🔭 I’m currently working on [Secure Payment Gateway](https://github.com/NIHAL29SINGH/Secure-Payment-Gateway)
 
